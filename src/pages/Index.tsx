@@ -4,7 +4,7 @@ import heroBg from "@/assets/hero-floral-bg.jpg";
 import Haji from "@/assets/HajiAli.jpg";
 import Masjid from "@/assets/jama_masjid.png";
 import bouquet from "@/assets/bouquet.jpg";
-import Groom from "@/assets/groompic.png";
+import Groom from "@/assets/image.png";
 
 import prayerMat from "@/assets/mat2.png";
 import HadithSection from "@/sections/HadithSection";
